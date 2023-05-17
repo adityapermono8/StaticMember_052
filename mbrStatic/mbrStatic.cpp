@@ -33,3 +33,5 @@ int main() {
 	mahasiswa mhs3("Andi Kurniawan");
 	mhs3.nim = 20;
 	mahasiswa mhs4("Joko Purbo");
+
+	mhs1.printAll();
